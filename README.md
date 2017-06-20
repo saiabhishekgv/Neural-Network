@@ -1,2 +1,2 @@
 # Neural-Network
-Simple Neural network using Tensorflow 
+Simple Neural network 
