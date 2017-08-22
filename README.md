@@ -1,17 +1,17 @@
 # Neural-Network
 Simple Neural network 
 
-Install
+# Install
 
 This project requires Python 3.6 and the following Python libraries installed:
 
-NumPy
-Pandas
-matplotlib
-scikit-learn
-TensorFlow
-Theano
-Keras
+- NumPy
+- Pandas
+- matplotlib
+- scikit-learn
+- TensorFlow
+- Theano
+- Keras
 You will also need to have software installed to run and execute a Jupyter Notebook
 
 If you do not have Python installed yet, it is highly recommended that you install the Anaconda distribution of Python, which already has the above packages and more included. Make sure that you select the Python 3.6 installer and not the Python 2.7 installer.
